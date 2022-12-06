@@ -1,7 +1,7 @@
 ## ECOSTRESS LST(Land Surface Temperature)
 #### Steps to retrieve ECOSTRESS; LST in a tiff format and visualization using QGIS
 
-This tutorial will provide the required steps to extract <b>ECOSTRESS</b>; LST product from the Ap<b>AppEEARS</b> website. This tutorial is <b>not</b> officially funded or part of any training. 
+This tutorial will provide the required steps to extract <b>ECOSTRESS</b>; LST product from the <b>AppEEARS</b> website. This tutorial is <b>not</b> officially funded or part of any training. 
 
 #### Objective:
 
@@ -18,4 +18,5 @@ We can use python for data processing to locate <b>LST</b> product from ECOSTRES
 ### AppEEARS website
 
 1. Starting with a new request:
-2. 
+![AppEEARS_homepage](https://github.com/sagarlimbu0/ECOSTRESS_LST/blob/main/images_screenshots/1.png)
+
