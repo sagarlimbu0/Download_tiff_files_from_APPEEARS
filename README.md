@@ -24,5 +24,5 @@ We can use python for data processing to locate <b>LST</b> product from ECOSTRES
 2. Filling required information to Extract ECOSTRESS LST product:
 ![form](https://github.com/sagarlimbu0/ECOSTRESS_LST/blob/main/images_screenshots/Screenshot%20(77).png)
 
-3. Check the download files:
+3. Check the status of downloaded files:
 ![downloaded_files](https://github.com/sagarlimbu0/ECOSTRESS_LST/blob/main/images_screenshots/Screenshot%20(79).png)
